@@ -1,6 +1,6 @@
 # 🔴🔵 4 en Raya
 
-Juego clásico de **4 en raya** en Python con interfaz gráfica Tkinter. Juegas con las fichas rojas contra una **IA basada en minimax** que juega con las azules.
+Juego clásico de **4 en raya** en Python con interfaz gráfica Tkinter. Juegas con las fichas rojas contra una **IA basada en minimax** que juega con las amarillas.
 
 <p align="center">
   <img src="captura.png" alt="Captura del juego" width="450">
